@@ -1,3 +1,4 @@
+++++ Русская версия ++++
 === Специальные карты, чёрный цвет ===
 0. Зеро
 -- Аргумент, не содержащий софизмов.
@@ -169,3 +170,162 @@
 -- Приравнивать понятие к более общей категории, для которой оно не является типичным представителем.
 ** "Аборт - это убийство, за него надо давать 10 лет тюрьмы!"
 "Шахматы - это спорт, их нужно включить в олимпийскую программу!"
+
+
+++++ Английская версия ++++
+=== Специальные карты, чёрный цвет ===
+0. Zero
+-- Argument without fallacies.
+** "Dinosaur extinction from alien attack is very unlikely because the other hypotheses about extinction causes have much more evidence."
+
+=== Агрессия вместо логики, синий цвет ===
+1. Argumentum ad baculum
+-- The adverse consequences are administered deliberately as a punishment rather than something which follows logically from the premise.
+** "Our country must have strong army, and then the world will confirm that we are right!"
+"I am right! If you think, I'm not, I'll make it hot for you!"
+2. Appeal to ridicule
+-- Laughing at argument without any refutation of the argument.
+** "Sure my worthy opponent claims that we should lower tuition, but that is just laughable."
+3. Argumentum ad cellarium
+-- Attack opponent directly by accusing him of still being in "mom's basement".
+** "How can you prove anything if you have no wife, no children? You're still living with parents!"
+4. Genetic fallacy
+-- Judging something good or bad on the basis of where it comes from, or from whom it comes.
+** "This food is imported, so it can't be good."
+5. Tu quoque
+-- Avoid having to engage with criticism by turning it back on the accuser - answering criticism with criticism.
+** - Smoking is bad for your health.
+- I saw you smoking 2 hours ago!
+6. Ad hominem
+-- Attacking your opponent's character or personal traits in an attempt to undermine their argument.
+** After Sally presents an eloquent and compelling case for a more equitable taxation system, Sam asks the audience whether we should believe anything from a woman who isn't married, was once arrested, and smells a bit weird.
+7. Strawman
+-- Misrepresenting someone's argument to make it easier to attack.
+** After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.
+
+=== Аргументы к эмоциям, красный цвет ===
+8. Appeal to nature
+-- Making the argument that because something is 'natural' it is therefore valid, justified, inevitable, good or ideal.
+** The medicine man rolled into town on his bandwagon offering various natural remedies, such as very special plain water. He said that it was only natural that people should be wary of 'artificial' medicines such as antibiotics.
+9. Appeal to emotion
+-- Manipulating an emotional response in place of a valid or compelling argument.
+** Luke didn't want to eat his sheep's brains with chopped liver and brussels sprouts, but his father told him to think about the poor, starving children in a third world country who weren't fortunate enough to have any food at all.
+10. Wishful thinking
+-- The claim that something is true because you've thought about it and would prefer it to be true.
+** - Paradise exists. There are good people go after death.
+- Why is this true?
+- Because I'm good person and I want to get there. I like this idea.
+11. Style over substance
+-- Using language or rhetoric to enhance the appeal of an argument, but not its validity, or arguing the method of presentation affects the truth of a claim.
+** "Well, how can I disagree with such a smart young man?"
+12. Argument from consequences
+-- Logical fallacy that the perceived outcomes of a proposition can determine its veracity.
+** "Belief in the theory of evolution leads to eugenics; therefore the theory of evolution is false!"
+13. Appeal to incredulity
+-- Saying that because one finds something difficult to understand that it's therefore not true.
+** Kirk drew a picture of a fish and a human and with effusive disdain asked Richard if he really thought we were stupid enough to believe that a fish somehow turned into a human through just, like, random things happening over time.
+14. Appeal to novelty
+-- Supposing something is better because it is new or newer.
+** "Awesome! The latest version of this operating system is going to make my computer faster and better..."
+15. Perfectionist fallacy
+-- Assuming that the only option on the table is perfect success, then rejecting anything that will not work perfectly.
+** "What's the point of this anti-drunk driving campaign? People are still going to drink and drive no matter what."
+
+=== Социальные аргументы, коричневый цвет ==
+16. Bandwagon
+-- Appealing to popularity or the fact that many people do something as an attempted form of validation.
+** "Millions of people believe in astrology, therefore it works!"
+17. Appeal to authority
+-- Using the opinion or position of an authority figure, or institution of authority, in place of an actual argument.
+** "There will be no crisis in the next year! The Minister of economy said that!"
+18. Anonymous authority
+-- A reference to the unknown scientists or authority without names and other details in order to make the information credible.
+** "Scientists know for a long time that people with dark hair are smarter than people with white hair."
+19. Argument by assertion
+-- The belief that if you say something enough times, it eventually becomes true and therefore you win the argument.
+** - This is true.
+- Why?
+- Because it's true. I know it!
+- How do you know?
+- I'm 100% sure that I'm right!
+20. Two wrongs make a right
+-- It is a type of tu quoque logical fallacy based on the idea that wrongs committed by one party can be used to excuse wrongs committed by others.
+** "America illegally invaded other countries, so why can't Russia?"
+21. Appeal to tradition
+-- When it is assumed that something is better or correct simply because it is older, traditional, or "always has been done."
+** "Women should stay at home, because women have always stayed at home."
+"Tobacco was part of indigenous American medicine for centuries, so it must be good, right?."
+
+=== Логические ошибки, розовый цвет ===
+22. Circular logic
+-- A conclusion is derived from a premise based on the conclusion.
+** "Stripping privacy rights only matters to those with something to hide. You must have something to hide if you oppose privacy protection."
+23. The fallacy fallacy
+-- Presuming that because a claim has been poorly argued, or a fallacy has been made, that it is necessarily wrong.
+** Recognising that Amanda had committed a fallacy in arguing that we should eat healthy food because a nutritionist said it was popular, Alyse said we should therefore eat bacon double cheeseburgers every day.
+24. Contradiction
+-- Saying two contradictory things in the same argument.
+** "We support the right of people to self-determination and separation, but who calls for separatism - go to jail!"
+"No one should be killed. Let's hang a criminal."
+25. Association fallacy
+-- Associating the values of one group with the values of another due to superficial or coincidental similarities.
+** "Stalin was an atheist.
+Stalin had millions of people killed.
+Therefore, atheism is evil."
+26. Appeal to probability
+-- Assuming because something could happen, it will inevitably happen.
+** "There are billions of galaxies with billions of stars in the universe. So there must be another planet with intelligent life on it."
+27. After this, therefore because of this
+-- Saying that because event A happened before B, A must have caused B.
+** "There are my lucky trousers. Sometimes good things happen to me when I wear them."
+"The rooster crows before sunrise, therefore the crowing rooster causes the sun to rise."
+
+=== Ошибки в методологии эксперимента, фиолетовый цвет ===
+28. Moving the goalposts
+-- Changing evidential requirements in an argument once they have been met.
+** "I really meant that I can read your mind only if you believe in my ability."
+29. Composition/division
+-- Assuming that what's true about one part of something has to be applied to all, or other, parts of it.
+** Daniel was a precocious child and had a liking for logic. He reasoned that atoms are invisible, and that he was made of atoms and therefore invisible too. Unfortunately, despite his thinky skills, he lost hte game of hide and go seek.
+30. Anecdotal evidence
+-- Using personal experience or an isolated example instead of a valid argument, especially to dismiss statistics.
+** Jason said that that was all cool and everything, but his grandfather smoked, like, 30 cigarettes a day and lived until 97 - so don't believe everything you read about meta analyses of sound studies showing proven causal relationships.
+31. Burden of proof
+-- Saying that the burden of proof lies not with the person making the claim, but with someone else to disprove.
+** Bertrand declares that a teapot is, at this very moment, in orbit around the Sun between the Earth and Mars, and that because no one can prove him wrong his claim is therefore a valid one.
+32. Middle ground
+-- Saying that a compromise, or middle point, between two extremes is the truth.
+** Holly said that vaccinations caused autism in children, but her scientifically well-read friend Caleb said that this claim had been debunked adn proven false. Their friend Alice offered a compromise that vaccinations cause some autism.
+33. Confirmation bias
+-- Cherry-picking evidence that supports your idea while ignoring contradicting evidence.
+** "It's obvious 9-11 was a American-goverment led conspiracy to justify war in Iraq and Afghanistan. No plane hit the Pentagon. The Twin Towers collapse was a controlled demolition... etc"
+34. Unfalsifability
+-- Offering a claim that cannot be proven false, because there is no way to check if it is false or not.
+** "He lied because he's possessed by demons."
+35. Hasty generalization
+-- Drawing a general conclusion from a tiny sample.
+** "I just got cut off by the woman driver in front. Women can't drive."
+36. Observer's mistake
+-- The situation when the observer makes the wrong conclusion because of the inevitable subjectivity (or unconsiously it adjusts to his opinion).
+** Railroad crossings, which observed from a train window, closed, and traffic lights on them are red.
+
+=== Уловки и хитрости, зелёный цвет ===
+37. Red Herring
+-- Introducing irrelevant material to the argument to distract and lead towards a different conclusion.
+** "The Senator needn't account for irregularities in his expenses. After all, there are other senators who have done far worse things."
+38. Black-or-white
+-- Where two alternative states are presented as the only possibilities, when in fact more possibilities exist.
+** Whilst rallying support for his plan to fundamentally undermine citizens' rights, the Supreme Leader told the people they were either on his side, or on the side of the enemy.
+39. Ambiguity
+-- Using double meanings or ambiguities of language to mislead or misrepresent the truth.
+** "I'm making a very good offer to you!"
+40. False analogy
+-- Use of a flawed or self-refuting analogy.
+** "The universe is like a watch. A watch must have a watchmaker. The universe, being like a watch, must have a designer."
+41. Loaded question
+-- Asking a question that has an assumption built into it, when in fact that assumption can be false or contentious.
+** "When did you stop spending all your money in the casino?"
+42. Noncentral fallacy
+-- X is in a category whose archetypal member gives us a certain emotional reaction. Therefore, we should apply that emotional reaction to X, even though it is not a central category member.
+** "Abortion is murder, we shall give 10 years of prison for it!"
+"Chess are sport, so we shall add them to the Olympics program."
